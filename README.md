@@ -1,5 +1,5 @@
 # DeskFlow API - Helpdesk de TI
-Aluna: Edna Aparecida Prado - SENAI 535159
+Aluna: Edna Aparecida Prado 
 
 ## Como rodar
 dotnet restore
